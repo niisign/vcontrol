@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This line was added locally.
+=======
+This lines were added on the web.
+>>>>>>> ced49adc9a33b882dd30d41f3adb077493f32fde
